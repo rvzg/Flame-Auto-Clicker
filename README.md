@@ -1,5 +1,5 @@
 # Flame Auto Clicker — RVZG
-## GUI Showcase
+## Pretty Simple GUI - Showcase
 
 ![Simple GUI](AutoClickerShowcase.jpg)
 
