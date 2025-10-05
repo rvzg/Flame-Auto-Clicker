@@ -17,10 +17,21 @@ If you need a faster clicker or custom features, contact us:
 
 **Note:** Using more than 10 clicks per millisecond may cause lag or unexpected behavior in some applications. Use responsibly.
 
+### Hotkey & Customization
+- The clicker hotkey can be changed directly from the GUI.
+- Only **letters (A-Z) and numbers (0-9)** are supported. Function keys (F1-F12) and special keys are not recognized.
+- Press your desired key in the hotkey box to change the toggle key.
+
+### Click Rate / Versions
+- **5 clicks/ms = 300 CPS:** Slower, less lag – safe for heavy applications.
+- **10 clicks/ms = 600 CPS:** Stable, recommended default.
+- **15 clicks/ms = 900 CPS:** Very fast, may cause lag in some apps.
+- Use whichever version fits your needs; the click rate is set in the compiled script and displayed in the GUI.
+
 ### Usage Instructions
-- Press the **E** key to start or stop clicking.
+- Press the hotkey (default **E**) to start or stop clicking.
 - You can also use the Start/Stop buttons in the GUI.
-- The click rate is set in the compiled script and displayed in the GUI.
+- The click rate is displayed in the GUI.
 
 ### Disclaimer / Terms of Use
 - This software is for **personal use only**.
@@ -29,10 +40,9 @@ If you need a faster clicker or custom features, contact us:
 - **Tampering Warning:** Modifying the script or executable to bypass protections, automate prohibited behavior, or redistribute altered versions may cause serious malfunctions and legal consequences.
 
 ### FAQ / Tips
-1. **Click Rate:** The `clickRate` in the script controls the speed of clicking. Excessive values may cause lag or instability.  
-   - Recommended safe limit: 10 clicks per millisecond.
+1. **Click Rate:** The `clickRate` in the script controls the speed of clicking. Excessive values may cause lag or instability.
 2. **GUI Status:** "Clicker Status: On/Off" shows whether clicking is active.
-3. **E Key:** Toggle (start/stop) function; works the same as the GUI buttons.
+3. **Hotkey:** Toggle (start/stop) function; works the same as the GUI buttons.
 4. **System Resources:** Very high click rates can increase CPU usage.
 5. **Support:** Contact via Instagram [@rvzgg](https://www.instagram.com/rvzgg) or Discord @rvzg for custom builds or faster clicking.
 
@@ -50,10 +60,21 @@ Daha hızlı bir tıklayıcı veya özel özellikler için iletişime geçin:
 
 **Not:** Milisaniyede 10’dan fazla tıklama bazı uygulamalarda gecikme (lag) veya beklenmeyen davranışlara yol açabilir. Lütfen sorumlu şekilde kullanın.
 
+### Hotkey & Özelleştirme
+- Tıklayıcıyı başlat/durduracak hotkey, GUI üzerinden değiştirilebilir.
+- Sadece **harfler (A-Z) ve sayılar (0-9)** desteklenir. F1-F12 veya özel tuşlar çalışmaz.
+- Hotkey kutusuna basıp istediğiniz tuşu seçin.
+
+### Tıklama Hızı / Sürümler
+- **5 tıklama/ms = 300 CPS:** Daha yavaş, daha az lag – yoğun uygulamalar için güvenli.
+- **10 tıklama/ms = 600 CPS:** Stabil, önerilen varsayılan sürüm.
+- **15 tıklama/ms = 900 CPS:** Çok hızlı, bazı uygulamalarda lag oluşabilir.
+- İhtiyacınıza uygun sürümü kullanabilirsiniz; tıklama hızı derlenmiş scriptte ayarlıdır ve GUI’de gösterilir.
+
 ### Kullanım Talimatları
-- **E** tuşuna basarak tıklamayı başlatıp durdurun.
-- GUI’deki Başlat/Durdur butonlarını kullanabilirsiniz.
-- Tıklama hızı derlenmiş scriptte ayarlıdır ve GUI’de gösterilir.
+- **E** tuşuna veya seçtiğiniz hotkeye basarak tıklamayı başlatıp durdurun.
+- GUI’deki Başlat/Durdur butonlarını da kullanabilirsiniz.
+- Tıklama hızı GUI’de gösterilir.
 
 ### Sorumluluk Reddi / Kullanım Koşulları
 - Bu yazılım yalnızca **kişisel kullanım** içindir.
@@ -62,9 +83,8 @@ Daha hızlı bir tıklayıcı veya özel özellikler için iletişime geçin:
 - **Değiştirme Uyarısı:** Scripti veya EXE’yi değiştirerek korumaları aşmaya, yasadışı davranışları otomatikleştirmeye veya değiştirilmiş sürümleri dağıtmaya çalışmak ciddi sistem arızalarına ve yasal sorumluluğa yol açabilir.
 
 ### SSS / İpuçları
-1. **Tıklama Hızı:** Scriptteki `clickRate` değeri tıklama hızını belirler; aşırı değerler lag veya kararsızlığa neden olabilir.  
-   - Önerilen güvenli limit: milisaniyede 10 tıklama.
+1. **Tıklama Hızı:** Scriptteki `clickRate` değeri tıklama hızını belirler; aşırı değerler lag veya kararsızlığa neden olabilir.
 2. **GUI Durumu:** "Clicker Durumu: Açık/Kapalı" tıklamanın aktif olup olmadığını gösterir.
-3. **E tuşu:** Başlat/durdur toggle işlevi görür; GUI butonları ile aynı.
+3. **Hotkey:** Başlat/durdur toggle işlevi görür; GUI butonları ile aynı.
 4. **Sistem Kaynakları:** Çok yüksek `clickRate` değerleri CPU kullanımını artırabilir.
 5. **Destek:** Daha hızlı tıklama veya özelleştirme için Instagram [@rvzgg](https://www.instagram.com/rvzgg) veya Discord @rvzg üzerinden iletişime geçebilirsiniz.
