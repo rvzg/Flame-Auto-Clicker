@@ -6,7 +6,7 @@
 
 This auto clicker is configured to perform 10 clicks per millisecond.  
 If you need a faster clicker or custom features, contact us:  
-- Instagram: @rvzgg  
+- Instagram: [@rvzgg](https://www.instagram.com/rvzgg)  
 - Discord: @rvzg  
 
 **VirusTotal scan:**  
@@ -21,6 +21,7 @@ If you need a faster clicker or custom features, contact us:
 
 ### Disclaimer / Terms of Use
 - This software is for **personal use only**.
+- Do **not** use this software to cheat, break rules, or violate the terms of service of other applications.
 - RVZG is **not responsible** for any data loss, account bans, or system issues resulting from misuse.
 - **Tampering Warning:** Modifying the script or executable to bypass protections, automate prohibited behavior, or redistribute altered versions may cause serious malfunctions and legal consequences.
 
@@ -30,7 +31,7 @@ If you need a faster clicker or custom features, contact us:
 2. **GUI Status:** "Clicker Status: On/Off" shows whether clicking is active.
 3. **E Key:** Toggle (start/stop) function; works the same as the GUI buttons.
 4. **System Resources:** Very high click rates can increase CPU usage.
-5. **Support:** Contact via Instagram @rvzgg or Discord @rvzg for custom builds or faster clicking.
+5. **Support:** Contact via Instagram [@rvzgg](https://www.instagram.com/rvzgg) or Discord @rvzg for custom builds or faster clicking.
 
 ---
 
@@ -38,7 +39,7 @@ If you need a faster clicker or custom features, contact us:
 
 Bu otomatik tıklayıcı, her milisaniyede 10 tıklama yapacak şekilde ayarlanmıştır.  
 Daha hızlı bir tıklayıcı veya özel özellikler için iletişime geçin:  
-- Instagram: @rvzgg  
+- Instagram: [@rvzgg](https://www.instagram.com/rvzgg)  
 - Discord: @rvzg
 
 **VirusTotal taraması:**  
@@ -53,6 +54,7 @@ Daha hızlı bir tıklayıcı veya özel özellikler için iletişime geçin:
 
 ### Sorumluluk Reddi / Kullanım Koşulları
 - Bu yazılım yalnızca **kişisel kullanım** içindir.
+- Yazılımı oyun/uygulama kurallarını ihlal etmek, hile yapmak veya yetkisiz erişim için kullanmayın.
 - RVZG, kötüye kullanım sonucu oluşabilecek veri kaybı, hesap banı veya sistem sorunlarından sorumlu değildir.
 - **Değiştirme Uyarısı:** Scripti veya EXE’yi değiştirerek korumaları aşmaya, yasadışı davranışları otomatikleştirmeye veya değiştirilmiş sürümleri dağıtmaya çalışmak ciddi sistem arızalarına ve yasal sorumluluğa yol açabilir.
 
@@ -60,6 +62,6 @@ Daha hızlı bir tıklayıcı veya özel özellikler için iletişime geçin:
 1. **Tıklama Hızı:** Scriptteki `clickRate` değeri tıklama hızını belirler; aşırı değerler lag veya kararsızlığa neden olabilir.  
    - Önerilen güvenli limit: milisaniyede 10 tıklama.
 2. **GUI Durumu:** "Clicker Durumu: Açık/Kapalı" tıklamanın aktif olup olmadığını gösterir.
-3. **E Tuşu:** Başlat/durdur toggle işlevi görür; GUI butonları ile aynı.
+3. **E tuşu:** Başlat/durdur toggle işlevi görür; GUI butonları ile aynı.
 4. **Sistem Kaynakları:** Çok yüksek `clickRate` değerleri CPU kullanımını artırabilir.
-5. **Destek:** Daha hızlı tıklama veya özelleştirme için Instagram: @rvzgg veya Discord: @rvzg üzerinden iletişime geçebilirsiniz.
+5. **Destek:** Daha hızlı tıklama veya özelleştirme için Instagram [@rvzgg](https://www.instagram.com/rvzgg) veya Discord @rvzg üzerinden iletişime geçebilirsiniz.
