@@ -1,4 +1,7 @@
 # Flame Auto Clicker — RVZG
+## Screenshot
+
+![Simple GUI](AutoClickerShowcase.jpg)
 
 ---
 
