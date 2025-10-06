@@ -13,7 +13,7 @@ If you need a faster clicker or custom features, contact us:
 - Discord: @rvzg  
 
 **VirusTotal scan:**  
-[Link](https://www.virustotal.com/gui/file/c0e248c55e46d3d47cff0cab2e2545fbb87f11e46bffcb8d393307a94a52b3b2)
+[Link](https://www.virustotal.com/gui/file/93820cc3bcb0fb2a031796e471b7b2214e1f7b26979a5fa0eea498df42fc99d3)
 
 **Note:** Using more than 10 clicks per millisecond may cause lag or unexpected behavior in some applications. Use responsibly.
 
@@ -59,7 +59,7 @@ Daha hızlı bir tıklayıcı veya özel özellikler için iletişime geçin:
 - Discord: @rvzg
 
 **VirusTotal taraması:**  
-[Link](https://www.virustotal.com/gui/file/c0e248c55e46d3d47cff0cab2e2545fbb87f11e46bffcb8d393307a94a52b3b2)
+[Link](https://www.virustotal.com/gui/file/93820cc3bcb0fb2a031796e471b7b2214e1f7b26979a5fa0eea498df42fc99d3)
 
 **Not:** Milisaniyede 10’dan fazla tıklama bazı uygulamalarda gecikme (lag) veya beklenmeyen davranışlara yol açabilir. Lütfen sorumlu şekilde kullanın.
 
