@@ -7,7 +7,7 @@
 
 This auto clicker is configured to perform 10 clicks per millisecond.  
 If you need a faster clicker or custom features, contact us:  
-- Instagram: [@rvzgg](https://www.instagram.com/rvzgg)  
+- Instagram: [@rvzg7.24](https://www.instagram.com/rvzg7.24)  
 - Discord: @rvzg  
 
 **VirusTotal scan:**  
@@ -41,7 +41,7 @@ If you need a faster clicker or custom features, contact us:
 4. **Hotkey:** Toggle (start/stop) function; works the same as the GUI buttons.
 5. **Hotkey Preferences:** The selected hotkey is saved in a preference file and loaded automatically on next launch.
 6. **System Resources:** Very high click rates can increase CPU usage.
-7. **Support:** Contact via Instagram [@rvzgg](https://www.instagram.com/rvzgg) or Discord @rvzg for custom builds or faster clicking.
+7. **Support:** Contact via Instagram [@rvzg7.24](https://www.instagram.com/rvzg7.24) or Discord @rvzg for custom builds or faster clicking.
 
 ### Disclaimer / Terms of Use
 - This software is for **personal use only**.
