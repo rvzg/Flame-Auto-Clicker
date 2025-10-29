@@ -10,9 +10,6 @@ If you need a faster clicker or custom features, contact us:
 - Instagram: [@rvzzg](https://www.instagram.com/rvzzg)  
 - Discord: @rvzg  
 
-**VirusTotal scan:**  
-[Link](https://www.virustotal.com/gui/file/93820cc3bcb0fb2a031796e471b7b2214e1f7b26979a5fa0eea498df42fc99d3)
-
 **Note:** Using more than 10 clicks per millisecond may cause lag or unexpected behavior in some applications. Use responsibly.
 
 ### Hotkey & Customization
